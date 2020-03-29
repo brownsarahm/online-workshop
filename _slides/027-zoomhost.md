@@ -1,7 +1,7 @@
 ---
 name: zoomhost
 notes: ""
-slidenum: 25
+slidenum: 27
 ---
 # Advanced Zoom
 - Advanced settings

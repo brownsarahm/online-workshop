@@ -1,7 +1,7 @@
 ---
 name: teachingskill
 notes: ""
-slidenum: 23
+slidenum: 25
 ---
 # Teaching is a skill
 - lesson study

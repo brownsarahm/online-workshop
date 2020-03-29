@@ -1,7 +1,7 @@
 ---
 name: cognitiveload
 notes: ""
-slidenum: 16
+slidenum: 18
 ---
 # When does learning stop?
 - types of memory

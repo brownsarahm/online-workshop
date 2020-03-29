@@ -1,6 +1,6 @@
 ---
 name: skills
 notes: ""
-slidenum: 20
+slidenum: 22
 ---
 # What are the pieces needed to get there?

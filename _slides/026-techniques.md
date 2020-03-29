@@ -1,7 +1,7 @@
 ---
 name: techniques
 notes: ""
-slidenum: 24
+slidenum: 26
 ---
 # Details of tools used today
 - zoom polling
