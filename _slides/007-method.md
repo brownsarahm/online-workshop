@@ -1,6 +1,6 @@
 ---
 name: method
-notes: "-  nonverbal how is this going so far?"
+notes: "-  nonverbal: how is this going so far?"
 slidenum: 7
 ---
 # Method of this workshop
