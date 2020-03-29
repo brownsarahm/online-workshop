@@ -26,4 +26,4 @@ slidenum: 3
 - nonverbal feedback
 - polls
 - breakout rooms  
-_We'll come back to these throughout as a strategies_
+_We'll come back to these throughout as strategies_
